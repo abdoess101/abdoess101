@@ -13,7 +13,7 @@ What I value most? **The people.** I love learning from experienced engineers an
     <a href= "https://www.linkedin.com/in/abderrahman-es-saraoui-2122a5205"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"∠></a>
     <a href= "mailto:essaraoui.abderrahman@gmail.com"><img src="https://img.shields.io/badge/gmail-%231FA1F1?style=flat&logo=gmail&logoColor=white"∠></a>
  </p>
-   <img src= "https://github.com/Casear98/Casear98/blob/main/coffee.png" align="right" width="25%">
+ 
 ## 💼 About Me
 
 - 🔭 I’m currently working as an **ASIC Design Engineer**
