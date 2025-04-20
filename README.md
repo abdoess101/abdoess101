@@ -30,12 +30,4 @@ What I value most? **The people.** I love learning from experienced engineers an
 
 ---
 
-## 📫 Contact
-
-You can find me on:
-- [LinkedIn](https://linkedin.com/in/your-link-here)
-- Email: `essaraoui.abderrahman@gmail.com`
-
----
-
 Let’s build the future — one gate at a time. ⚡
